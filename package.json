@@ -1,0 +1,21 @@
+{
+  "name": "carpeta-de-practicas",
+  "version": "1.0.0",
+  "description": "Este es un sitio creado de mis prácticas de la materia de interfaces y con un poco de mi información personal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berenicediazguzman/Carpeta-de-practicas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/berenicediazguzman/Carpeta-de-practicas/issues"
+  },
+  "homepage": "https://github.com/berenicediazguzman/Carpeta-de-practicas#readme"
+}
